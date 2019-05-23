@@ -1,0 +1,28 @@
+Species,Threshold,Bonus
+Beast,2,Attack damage increased by 10% for all allies.
+Beast,4,Attack damage increased by an additional 20% for all allies.
+Demon,1,Deals 50% extra pure damage to their target. (inactive if more than one king of demon)
+Dragon,3,All friendly dragons have 100 mana when the battle starts.
+Dwarf,1,Attack range increased by 300.
+Element,2,All friendly elements have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
+Element,4,All allies have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
+Elf,3,Evasion increased by 20% for all friendly elves.
+Elf,6,Evasion increased by an additional 25% for all friendly elves.
+Elf,9,Evasion increased by an additional 30% for all friendly elves.
+Goblin,3,Armor and HP regeneration increased by 15 for a random ally.
+Goblin,6,Armor and HP regeneration increased by 15 for all allies.
+God,1,Cooldown of all allied units decreased by 50%.
+God,2,Cooldown of all allied units decreased by an additional 50% (the total is 75%).
+Human,2,All friendly humans have a 20% chance to silence the target for 4s when attacking.
+Human,4,All friendly humans have an additional 25% chance to silence the target for 4s when attacking.
+Human,6,All friendly humans have an additional 30% chance to silence the target for 4s when attacking.
+Naga,2,Magic resistance increased by 35% for all allies.
+Ogre,1,Max health points increased by 5% for all allies.
+Orc,2,Max health points increased by 250 for all friendly orcs.
+Orc,4,Max health points increased by an additional 350 for all friendly orcs.
+Satyr,1,Hides your bench from the enemy vision as long as a satyr is on your bench. Hides your pieces on the chess board until the battle begins if you have a satyr on the board.
+Troll,2,Attack speed increased by 35% for all friendly trolls.
+Troll,4,Attack speed increased by 30% for all allies.
+Undead,2,Armor decreased by 4 for all enemies.
+Undead,4,Armor decreased by 6 for all enemies.
+Undead,6,Armor decreased by 7 for all enemies.

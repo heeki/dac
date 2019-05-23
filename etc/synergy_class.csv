@@ -1,0 +1,22 @@
+Class,Threshold,Bonus
+Assassin,3,All friendly assassins have a 15% chance to deal 3.5x damage.
+Assassin,6,All friendly assassins have an additional 15% chance to deal 4.5x damage.
+Demon Hunter,1,Negates an enemy demon’s power.
+Demon Hunter,2,All friendly demons keep their power.
+Druid,2,Two one-star druids can upgrade to a two-stars druid.
+Druid,4,Two two-stars druids can upgrade to a three-stars druid.
+Hunter,3,All friendly hunters have +30 base attack damage and +30% chance to pierce through evasion.
+Hunter,6,All friendly hunters have an additional +40 base attack damage and +40% chance to pierce through,evasion.
+Knight,3,All friendly knights have a 40% chance to trigger a damage-reduction shield when attacked.
+Knight,6,All allies knights have a 40% chance to trigger a damage-reduction shield when attacked.
+Mage,3,Magic resistance decreased by 35% for all enemies.
+Mage,6,Magic resistance decreased by an additional 45% for all enemies.
+Mech,2,HP regeneration increased by 15 for all friendly mechs.
+Mech,4,HP regeneration increased by an additional 25 for all friendly mechs.
+Priest,1,20% less damage to the courier.
+Shaman,2,Hex affects a random enemy when the battle starts.
+Warlock,3,Provides 15% lifesteal and 15% spell lifesteal to all allies.
+Warlock,3,Provides 15% lifesteal and 15% spell lifesteal to all allies.
+Warrior,3,Armor increased by 5 for all friendly warriors.
+Warrior,6,Armor increased by an additional 7 for all friendly warriors.
+Warrior,9,Armor increased by an additional 9 for all friendly warriors.

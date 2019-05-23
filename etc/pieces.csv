@@ -1,0 +1,60 @@
+Cost,Hero,Species1,Species2,Class,Ability
+1,Axe,Orc,,Warrior,Berserker's Call
+1,Enchantress,Beast,,Druid,Nature's Attendants
+1,Ogre Magi,Ogre,,Mage,Bloodlust
+1,Tusk,Beast,,Warrior,Walrus PUNCH!
+1,Drow Ranger,Undead,,Hunter,Marksmanship
+1,Bounty Hunter,Goblin,,Assassin,Shuriken Toss
+1,Clockwerk,Goblin,,Mech,Battery Assault
+1,Shadow Shaman,Troll,,Shaman,Hex
+1,Bat Rider,Troll,,Knight,Sticky Napalm
+1,Tinker,Goblin,,Mech,Heat Seeking Missile
+1,Anti Mage,Elf,,Demon Hunter,Mana Break
+1,Tiny,Elemental,,Warrior,Toss
+1,Mars,God,,Warrior,Bulwark
+2,Crystal Maiden,Human,,Mage,Arcane Aura
+2,Beast Master,Orc,,Hunter,Wild Axes
+2,Juggernaut,Orc,,Warrior,Blade Fury
+2,Timbersaw,Goblin,,Mech,Whirling Death
+2,Queen of Pain,Demon,,Assassin,Scream of Pain
+2,Puck,Elf,Dragon,Mage,Illusory Orb
+2,Witch Doctor,Troll,,Warlock,Paralyzing Cask
+2,Slardar,Naga,,Warrior,Corrosive Haze
+2,Chaos Knight,Demon,,Knight,Chaos Bolt
+2,Treant Protector,Elf,,Druid,Leech Seed
+2,Luna,Elf,,Knight,Moon Glaives
+2,Furion,Elf,,Druid,Nature's Call
+2,Morphling,Elemental,,Assassin,Waveform
+2,Beastmaster,Orc,,Hunter,Wild Axes
+3,Lycan,Human,Beast,Warrior,Transform
+3,Venomancer,Beast,,Warlock,Plague Ward
+3,Omni Knight,Human,,Knight,Purification
+3,Razor,Elemental,,Mage,Plasma Field
+3,Wind Ranger,Elf,,Hunter,Powershot
+3,Phantom Assassin,Elf,,Assassin,Coup de Grace
+3,Abaddon,Undead,,Knight,Aphotic Shield
+3,Sand King,Beast,,Assassin,Burrowstrike
+3,Slark,Naga,,Assassin,Shadow Dance
+3,Sniper,Dwarf,,Hunter,Assassinate
+3,Viper,Dragon,,Assassin,Viper Strike
+3,Shadow Fiend,Demon,,Warlock,Requiem of Souls
+3,Lina,Human,,Mage,Laguna Blade
+3,Terrorblade,Demon,,Demon Hunter,Metamorphosis
+3,Mirana,Elf,,Hunter,Sacred Arrow
+3,Dazzle,Troll,,Priest,Shallow Grave
+4,Doom,Demon,,Warrior,Doom
+4,Kunkka,Human,,Warrior,Ghostship
+4,Troll Warlord,Troll,,Warrior,Fervor
+4,Light Keeper,Human,,Mage,Illuminate
+4,Necrophos,Undead,,Warlock,Death Pulse
+4,Templar Assassin,Elf,,Assassin,Refraction
+4,Alchemist,Goblin,,Warlock,Acid Spray
+4,Disruptor,Orc,,Shaman,Static Storm
+4,Medusa,Naga,,Hunter,Stone Gaze
+4,Dragon Knight,Human,Dragon,Knight,Elder Dragon Form
+4,Lone Druid,Beast,,Druid,Spirit Bear
+5,Gyrocopter,Dwarf,,Mech,Call Down
+5,Lich,Undead,,Mage,Chain Frost
+5,Tide Hunter,Naga,,Hunter,Ravage
+5,Enigma,Element,,Warlock,Midnight Pulse
+5,Techies,Goblin,,Mech,Explosive Bomb
