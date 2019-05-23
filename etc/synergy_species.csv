@@ -4,8 +4,8 @@ Beast,4,Attack damage increased by an additional 20% for all allies.
 Demon,1,Deals 50% extra pure damage to their target. (inactive if more than one king of demon)
 Dragon,3,All friendly dragons have 100 mana when the battle starts.
 Dwarf,1,Attack range increased by 300.
-Element,2,All friendly elements have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
-Element,4,All allies have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
+Elemental,2,All friendly elements have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
+Elemental,4,All allies have a 30% chance to turn the attacker into stone for 4 seconds when attacked by melee chess pieces.
 Elf,3,Evasion increased by 20% for all friendly elves.
 Elf,6,Evasion increased by an additional 25% for all friendly elves.
 Elf,9,Evasion increased by an additional 30% for all friendly elves.
